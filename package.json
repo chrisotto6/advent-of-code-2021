@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "Advent of Code 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisotto6/advent-of-code-2021.git"
+  },
+  "keywords": [
+    "advent-of-code"
+  ],
+  "author": "Chris Otto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisotto6/advent-of-code-2021/issues"
+  },
+  "homepage": "https://github.com/chrisotto6/advent-of-code-2021#readme"
+}
